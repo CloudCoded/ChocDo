@@ -1,0 +1,10 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+    position: relative;
+    margin-left: 30px;
+    cursor: pointer;
+}

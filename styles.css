@@ -20,3 +20,43 @@ body{
     color: whitesmoke;
     font-size: 12px;
 }
+
+.btn-now{
+    background-color: rgb(213, 213, 11);
+    color: darkslategray;
+    font-weight: bold;
+    border-radius: 20px;
+    padding: 7px;
+    border: 0px;
+    font-size: 10px;
+    width: 80px;
+    cursor: pointer;
+}
+
+img{
+    width: 350px;
+    position: absolute;
+    left: 300px;
+    right: 40px;
+}
+
+.top-btn{
+    position: absolute;
+    left: 650px;
+    bottom: 170px;
+}
+
+.navbar{
+    color: white;
+    position: absolute;
+    left: 350px;
+    bottom: 175px;
+}
+
+.navbar li{
+    float: left;
+    list-style: none;
+    margin-right: 20px;
+    font-size: 12px;
+    font-family: sans-serif;
+}

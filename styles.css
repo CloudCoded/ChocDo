@@ -8,3 +8,15 @@ body{
     margin-left: 30px;
     cursor: pointer;
 }
+
+.heading{
+    font-family: 'Oooh Baby', cursive;
+    font-size: 55px;
+    color: white;
+}
+
+.description{
+    font-family: sans-serif;
+    color: whitesmoke;
+    font-size: 12px;
+}
